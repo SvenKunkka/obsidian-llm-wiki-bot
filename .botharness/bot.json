@@ -1,0 +1,46 @@
+{
+  "name": "Obsidian 知识库治理",
+  "bio": "基于 LLM-Wiki 方法整理 Obsidian 知识库：来源归档、知识编译、问答与质量巡检。",
+  "avatar": {
+    "recipe": {
+      "schemaVersion": 1,
+      "family": "illustrated",
+      "assetVersion": 2,
+      "rigVersion": 1,
+      "head": "chubby",
+      "pose": "front",
+      "hair": "hime",
+      "eyes": "round",
+      "brows": "soft",
+      "nose": "none",
+      "mouth": "open",
+      "cheeks": "none",
+      "glasses": "round",
+      "outfit": "sailor",
+      "backdrop": "hearts",
+      "accessory": "none",
+      "skinColor": "#c68863",
+      "hairColor": "#8a5a36",
+      "eyeColor": "#d0533f",
+      "shirtColor": "#2f3a4a",
+      "bangs": "hime",
+      "sideHair": "hime",
+      "backHair": "long",
+      "spacing": 0,
+      "height": 0,
+      "hairLength": 0,
+      "species": "human",
+      "rightSideHair": "hime"
+    }
+  },
+  "banner": {
+    "recipe": {
+      "scene": "forest",
+      "seed": 1920858744
+    }
+  },
+  "primaryColor": {
+    "mode": "automatic",
+    "fallback": "#8a5a36"
+  }
+}
