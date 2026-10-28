@@ -1,3 +1,16 @@
+# Obsidian LLM Wiki Governance Bot
+
+A BotHarness bot based on the [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) approach for organizing and maintaining an Obsidian knowledge base.
+
+- **Import:** Preserve original sources, summarize them and link related topics, concepts and entities.
+- **Q&A:** Consult the knowledge base and sources, cite supporting evidence and disclose uncertainty.
+- **Review:** Check broken links, orphan pages, duplicates, missing sources, conflicts and outdated content.
+- **Protection:** Respect user authorization, back up before changes, preserve manual content and Obsidian links, and never silently overwrite conflicting sources.
+
+Install by pasting this repository URL into the DSH bot marketplace, then select the knowledge base to use.
+
+---
+
 # Obsidian 知识库治理 Bot
 
 基于 [LLM Wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) 方法的 BotHarness 机器人，协助整理和维护 Obsidian 知识库。
